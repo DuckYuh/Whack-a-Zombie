@@ -23,6 +23,11 @@ Dự án được tạo với mục tiêu Học hỏi công nghệ và luyện t
 
 ---
 
+## 🎮 Demo
+
+---
+
 ## 📦 Cài đặt & Chạy Game
 
 Chạy lệnh: python main.py
+
