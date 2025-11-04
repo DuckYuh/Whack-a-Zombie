@@ -1,6 +1,6 @@
 # 🎮 Whack A Zombie
 
-Một trò chơi 2D được phát triển bằng Pygame.  
+Một trò chơi 2D được phát triển bằng **Python** và **Pygame**.  
 Dự án được tạo với mục tiêu học hỏi công nghệ và luyện tập lập trình game.
 
 ---
@@ -31,6 +31,7 @@ Dự án được tạo với mục tiêu học hỏi công nghệ và luyện t
 
 1. Cài đặt thư viện Pygame: pip install pygame
 2. Chạy lệnh: python main.py
+
 
 
 
